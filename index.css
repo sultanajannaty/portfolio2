@@ -113,11 +113,12 @@ border-radius: 7px;
 }
 /* Work section */
 .grid-single-item .grid-single-image{
-    width: 200px;
+    width: 400px;
+    height: 200px;
 }
 .work-item{
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: auto auto;
     text-align: center;
 }
 /* Testimonial section */
